@@ -1,20 +1,20 @@
 $(document).ready(function (){
-   //########################################################################### 
+   //###########################################################################
    var me={
      name:"Shivam Vishwakarma" ,
      tagline:"Front End Developer",
-     img_src:'sv.jpg',
+     img_src:'sv.png',
      img_alt:'Shivam Vishwakarma',
      email:'svishwakarma74@gmail.com',
      contact:'+91 9685226924',
-     website:'Shivvam.github.io',
+     website:'shivvam.github.io',
      linked:'shivamvish',
-     github:'Shivvam.github.io',
+     github:'https://github.com/Shivvam',
      twitter:'v_shivam09'
-     
+
    };
    populateMe(me);
-   //########################################################################### 
+   //###########################################################################
 });
 function populateMe(me){
     $("#me_name").html(me.name);
@@ -33,5 +33,5 @@ function populateMe(me){
     $("#me_github").attr("href","http://"+me.github);
     $("#me_twitter").html(me.twitter);
     $("#me_twitter").attr("href","https://twitter.com/"+me.twitter);
-    
+
 }
