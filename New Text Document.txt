@@ -64,7 +64,7 @@
                 <div class="education-container container-block">
                     <h2 class="container-block-title">Education</h2>
                     <div class="item">
-                        <h4 class="degree"> Bachelorï¿½s of Engineering  in Information Technology</h4>
+                        <h4 class="degree"> Bachelor’s of Engineering  in Information Technology</h4>
                         <h5 class="meta">GEC Jabalpur</h5>
                         <div class="time">2008 -2012 </div>
                     </div><!--//item-->
@@ -112,7 +112,7 @@
                                         FullStack Software Developer
 
                                 </h3>
-                                <div class="time">Juneï¿½2013 ï¿½ Present</div>
+                                <div class="time">June’2013 – Present</div>
                             </div><!--//upper-row-->
 
                         </div><!--//meta-->
@@ -142,7 +142,7 @@
                                        Software Developer    at Tata Consultancy Services
 
                                 </h3>
-                                <div class="time">Juneï¿½2012 ï¿½ Mayï¿½2013</div>
+                                <div class="time">June’2012 – May’2013</div>
                             </div><!--//upper-row-->
 
                         </div><!--//meta-->
@@ -238,13 +238,12 @@
                     <h2 class="section-title"><i class="fa fa-rocket"></i>Skills &amp; Proficiency</h2>
                     <div class="skillset">
                          <div class="item">
-                            <h3 class="level-title">React/React-Native</h3>
+                            <h3 class="level-title">React JS</h3>
                             <div class="level-bar">
                                 <div class="level-bar-inner" data-level="91%">
                                 </div>
                             </div><!--//level-bar-->
                         </div><!--//item-->
-
                           <div class="item">
                             <h3 class="level-title">JavaScript / jQuery</h3>
                             <div class="level-bar">
@@ -252,33 +251,6 @@
                                 </div>
                             </div><!--//level-bar-->
                         </div><!--//item-->
-
-
-                          <div class="item">
-                            <h3 class="level-title">Java</h3>
-                            <div class="level-bar">
-                                <div class="level-bar-inner" data-level="95%">
-                                </div>
-                            </div><!--//level-bar-->
-                      </div><!--//item-->
-
-                      <div class="item">
-                        <h3 class="level-title">Python</h3>
-                        <div class="level-bar">
-                            <div class="level-bar-inner" data-level="85%">
-                            </div>
-                        </div><!--//level-bar-->
-                  </div><!--//item-->
-
-                  <div class="item">
-                    <h3 class="level-title">C++</h3>
-                    <div class="level-bar">
-                        <div class="level-bar-inner" data-level="90%">
-                        </div>
-                    </div><!--//level-bar-->
-              </div><!--//item-->
-
-
 
                         <div class="item">
                             <h3 class="level-title">HTML5</h3>
@@ -302,9 +274,16 @@
                             </div><!--//level-bar-->
                         </div><!--//item-->
                         <div class="item">
-                            <h3 class="level-title">Firebase </h3>
+                            <h3 class="level-title">UI Moqup/Design/UX </h3>
                             <div class="level-bar">
                                 <div class="level-bar-inner" data-level="98%">
+                                </div>
+                            </div><!--//level-bar-->
+                        </div><!--//item-->
+                        <div class="item">
+                            <h3 class="level-title">Wordpress</h3>
+                            <div class="level-bar">
+                                <div class="level-bar-inner" data-level="60%">
                                 </div>
                             </div><!--//level-bar-->
                         </div><!--//item-->

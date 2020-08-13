@@ -9,8 +9,8 @@ $(document).ready(function (){
      contact:'+91 9685226924',
      website:'shivvam.github.io',
      linked:'shivamvish',
-     github:'https://github.com/Shivvam',
-     twitter:'v_shivam09'
+     github:'https://github.com/shivvam',
+     twitter:'shivamv91'
 
    };
    populateMe(me);
